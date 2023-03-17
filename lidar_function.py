@@ -36,7 +36,7 @@
     "# Change working directory\n",
     "working_dir = os.path.join(\n",
     "    pathlib.Path.home(), 'earth-analytics', 'data', 'spatial-vector-lidar')\n",
-    "os.chdir(working_dir) "
+    "os.chdir(working_dir)"
    ]
   },
   {
